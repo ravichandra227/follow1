@@ -1,2 +1,2 @@
 # follow1
-creating step by step
+select sysdate from dual;
